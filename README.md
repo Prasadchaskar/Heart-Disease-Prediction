@@ -1,3 +1,4 @@
+
 # Heart-Disease-Prediction
 ## Introduction
 # What is heart disease??
@@ -17,6 +18,10 @@
 3. sklearn --- pip install scikit-learn
 4. pickle ----- pip install pickle
 5. Tkinter ------ pip install tk
+# GUI Pictures
+![heart1](https://user-images.githubusercontent.com/72083319/123905702-723c3b00-d990-11eb-982c-e2d3deee9c05.PNG)
+![heart2](https://user-images.githubusercontent.com/72083319/123905736-7b2d0c80-d990-11eb-94e3-5b171d2bee2c.PNG)
+
 
 Thanks for sticking till the end.
 
